@@ -3,7 +3,7 @@
 **全面的视觉参考工具** - 构图技巧、打光技巧、画师百科，提升 AI 绘画作品的美学品质
 
 开发者：**鸡肉爱土豆**  
-Bilibili: https://space.bilibili.com/403361177
+Bilibili: [https://space.bilibili.com/403361177](https://www.bilibili.com/video/BV16mEV6pECq/?spm_id_from=333.1387.upload.video_card.click&vd_source=343e49b703fb5b4137cd6c1987846f37)
 
 ---
 
