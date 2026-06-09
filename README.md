@@ -42,7 +42,7 @@ Bilibili: https://space.bilibili.com/403361177
 ### 方式一：手动安装
 
 1. 进入 WebUI 的 `extensions` 目录
-2. 克隆或下载本插件到 `sd-webui-AestheticEnhancement` 文件夹
+2. 克隆或下载本插件到 `sd-webui-AestheticEnhancement-llama.cpp` 文件夹
 3. 将ui_tempdir文件放入webui\modules目录
 4. 重启 WebUI
 
@@ -50,7 +50,7 @@ Bilibili: https://space.bilibili.com/403361177
 
 ```bash
 cd your_webui_directory/extensions
-git clone <repository_url> sd-webui-AestheticEnhancement
+git clone <repository_url> sd-webui-AestheticEnhancement-llama.cpp
 ```
 
 ### 方式三：直接下载
